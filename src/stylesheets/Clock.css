@@ -1,0 +1,10 @@
+.clock {
+    height: max-content;
+    margin: 10px auto;
+    padding: 10px;
+    background: linear-gradient(to bottom, #818080, #e0dfdf);
+    color: #fff;
+    text-align: center;
+    border: 3px solid #000;
+    border-radius: 10px;
+}
